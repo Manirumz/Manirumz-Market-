@@ -1,0 +1,6 @@
+{
+  "name": "Manirumz Market",
+  "description": "Production-ready Web, PWA & Pi Browser Marketplace with Admin, Seller, and Customer dashboards, Pi Payments, and Hausa language support.",
+  "requestFramePermissions": ["camera", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
